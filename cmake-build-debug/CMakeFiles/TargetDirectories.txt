@@ -1,0 +1,4 @@
+/mnt/c/Users/Josh/CLionProjects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Josh/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Josh/CLionProjects/untitled/cmake-build-debug/CMakeFiles/Euler.dir
+/mnt/c/Users/Josh/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir

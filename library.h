@@ -2,7 +2,6 @@
 #define UNTITLED_LIBRARY_H
 #include <iostream>
 #include <cmath>
-#include <sys/time.h>
 #include <chrono>
 #include <vector>
 

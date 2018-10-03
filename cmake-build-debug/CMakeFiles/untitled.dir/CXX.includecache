@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Josh/CLionProjects/untitled/cmake-build-debug/Problem_1.cpp
+iostream
+-
+cmath
+-
+
+/mnt/c/Users/Josh/CLionProjects/untitled/library.cpp
+library.h
+/mnt/c/Users/Josh/CLionProjects/untitled/library.h
+iostream
+-
+
+/mnt/c/Users/Josh/CLionProjects/untitled/library.h
+iostream
+-
+cmath
+-
+chrono
+-
+vector
+-
+

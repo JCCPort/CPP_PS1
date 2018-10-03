@@ -1,0 +1,2 @@
+/usr/bin/ar qc libuntitled.a  CMakeFiles/untitled.dir/library.cpp.o CMakeFiles/untitled.dir/Problem_1.cpp.o
+/usr/bin/ranlib libuntitled.a
