@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7237057c-f9b4-442f-a6d7-5d6195194938" name="unix.central.susx.ac.uk" url="http://unix.central.susx.ac.uk">
+        <fileTransfer host="unix.central.susx.ac.uk" port="22" rootFolder="/its/home/jp462" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
